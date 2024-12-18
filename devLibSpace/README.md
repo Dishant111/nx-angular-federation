@@ -104,6 +104,10 @@ Note : npm publish will pick up registry from .npmrc file
 11. Now in devremotea where package json is there.
     add .npmrc file (same as other one)
 
-12. do npm i package name install
+12. install package
+
+```
+npm i package-name
+```
 
 13. import and use package
