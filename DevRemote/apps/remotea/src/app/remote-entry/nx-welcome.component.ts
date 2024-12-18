@@ -1,6 +1,7 @@
 import { Component, ViewEncapsulation } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { RouterModule } from '@angular/router';
+// import {AuthComponent} from 'manage-auth'
 
 @Component({
   selector: 'app-nx-welcome',
@@ -435,6 +436,7 @@ summary svg {
         <!--  WELCOME  -->
         <div id="welcome">
           <h1>
+          <!-- <lib-auth></lib-auth> -->
             <span> Hello there, </span>
             Welcome remotea 👋
 
